@@ -1,1 +1,1 @@
-From rancher/pause-amd64:3.1
+From mirrorgooglecontainers/pause-amd64:3.1

@@ -1,0 +1,1 @@
+FROM osixia/keepalived:1.4.5

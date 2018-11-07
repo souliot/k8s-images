@@ -1,0 +1,1 @@
+From mirrorgooglecontainers/kube-proxy-amd64:v1.12.1

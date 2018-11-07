@@ -1,1 +1,1 @@
-From mirrorgooglecontainers/nk8s-dns-dnsmasq-nanny-amd64:1.14.13
+From mirrorgooglecontainers/k8s-dns-dnsmasq-nanny-amd64:1.14.13

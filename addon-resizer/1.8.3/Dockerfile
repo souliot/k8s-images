@@ -1,1 +1,0 @@
-From mirrorgooglecontainers/addon-resizer:1.8.3

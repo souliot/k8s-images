@@ -1,1 +1,0 @@
-From calico/cni:v3.2.3

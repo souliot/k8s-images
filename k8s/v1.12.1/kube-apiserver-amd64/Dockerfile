@@ -1,1 +1,1 @@
-From mirrorgooglecontainers/kube-apiserver-amd64:v1.12.1
+From k8s.gcr.io/kube-apiserver:v1.18.2

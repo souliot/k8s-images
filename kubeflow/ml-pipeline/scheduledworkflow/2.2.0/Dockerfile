@@ -1,0 +1,1 @@
+FROM gcr.io/ml-pipeline/scheduledworkflow:2.2.0

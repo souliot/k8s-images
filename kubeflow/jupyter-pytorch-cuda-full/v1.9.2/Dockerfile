@@ -1,0 +1,1 @@
+FROM kubeflownotebookswg/jupyter-pytorch-cuda-full:v1.9.2

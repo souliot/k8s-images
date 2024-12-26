@@ -1,0 +1,1 @@
+FROM kubeflownotebookswg/rstudio-tidyverse:v1.9.2
